@@ -2,7 +2,7 @@ SmartRouterZone 聚焦智能路由与 OpenWrt。
 提供固件编译、设备适配与驱动调优、源码维护、常用插件与配置集合。
 覆盖 CLX S20P / WAX206 / mt798x 等设备与分支，持续更新与优化。
 
-## 主力仓库
+## 仓库
 ### Source
 [![Stars](https://img.shields.io/github/stars/SmartRouterZone/Source?style=flat-square)](https://github.com/SmartRouterZone/Source)
 [![Forks](https://img.shields.io/github/forks/SmartRouterZone/Source?style=flat-square)](https://github.com/SmartRouterZone/Source)
@@ -30,4 +30,5 @@ SmartRouterZone 聚焦智能路由与 OpenWrt。
 [![mt798x-rebase](https://img.shields.io/github/last-commit/SmartRouterZone/mt798x-rebase?style=for-the-badge&label=mt798x-rebase)](https://github.com/SmartRouterZone/mt798x-rebase)
 
 ## 数据
-![Org Stats](https://github-readme-stats.vercel.app/api?username=SmartRouterZone&show_icons=true&rank_icon=github&hide_title=true)
+[![Followers](https://img.shields.io/github/followers/SmartRouterZone?style=flat-square)](https://github.com/orgs/SmartRouterZone/people)
+[![Profile Updated](https://img.shields.io/github/last-commit/SmartRouterZone/.github?style=flat-square&label=Profile%20Updated)](https://github.com/SmartRouterZone/.github)
